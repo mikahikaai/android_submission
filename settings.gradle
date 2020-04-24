@@ -1,0 +1,2 @@
+rootProject.name='RianPedia'
+include ':app'
